@@ -1,0 +1,4 @@
+#availabilities and price of each market 0 indicate depot rest of market 1-9 position, like aval[1] = 1 no market
+
+aval = [0, 30, 65, 80,45,58,60,95,52,62]
+price = [0, 120, 130, 160,155,145,132,125,135,140]
